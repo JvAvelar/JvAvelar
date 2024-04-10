@@ -6,7 +6,7 @@
         <h3>Olá, seja bem-vindo(a)!</h3>
         <h3>
           Eu sou João Vitor Avelar, tenho 20 anos e estou Graduando em Sistemas de Informação na UFPB.
-          Atualmente estou estudando Desenvolvimento Mobile Android Nativo com a linguagem de porgramação Kotlin e a ferramenta Android Studio.
+          Atualmente estou estudando Desenvolvimento Mobile Android Nativo com a linguagem de programação Kotlin e a ferramenta Android Studio.
         </h3>
     </div>
     
