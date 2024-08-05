@@ -1,6 +1,3 @@
-<img width=100% src="https://media.licdn.com/dms/image/D4D16AQHQM5PnuRD5oQ/profile-displaybackgroundimage-shrink_350_1400/0/1699726293234?e=1718236800&v=beta&t=EhnAOfxwMgpzuiQTsWWk7g_CanD1vZlZiPMJ3Mh9HIM"/>
-
-##
 
 <div align="center" >
         <h3>Olá, seja bem-vindo(a)!</h3>
