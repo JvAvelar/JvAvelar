@@ -1,3 +1,6 @@
+ <img align="center" src="https://github.com/JvAvelar/JvAvelar/raw/main/android-developer-kotlin.jpeg" />
+
+ 
 
 <div align="center" >
         <h3>Olá, seja bem-vindo(a)!</h3>
