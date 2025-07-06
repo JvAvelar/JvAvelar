@@ -1,5 +1,4 @@
  <img align="center" src="https://github.com/JvAvelar/JvAvelar/raw/main/android-developer-kotlin.jpeg" />
-
  
 
 <div align="center" >
@@ -10,8 +9,6 @@
 ## 
 
 <br></br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JvAvelar&bg_color=483D8B&color=fff&line=000&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <div align="center">  
@@ -56,7 +53,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JvAvelar}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JvAvelar}/count.svg"/></p> 
 <br>
 </div>
 
