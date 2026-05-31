@@ -5,18 +5,7 @@
         <h3>João Vitor Avelar</h3>
         <h3>Desenvolvedor Android</h3>
     </div>
-    
-## 
-
-<br></br>
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JvAvelar&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=483D8B" alt="Ronyelison Abreu github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvAvelar&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=483D8B" />
-</div>
-
-##
+   
 
 <div align="center"> 
         <a href="https://www.linkedin.com/in/jvitor-avelar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
@@ -49,13 +38,5 @@
                 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
          </div>
   </div>
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JvAvelar}/count.svg"/></p> 
-<br>
-</div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
